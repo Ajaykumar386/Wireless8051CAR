@@ -1,6 +1,6 @@
 # Wireless 8051 CAR
 
-A remote car using 8051 microcontrolles and Bluetooth HC05 which can move in 6 directions 
+A remote car using 8051 microcontroller and Bluetooth HC05 which can move in 6 directions 
 <li>FORWARD</li> 
 <li>BACKWARD</li>
 <li>LEFT</li>
